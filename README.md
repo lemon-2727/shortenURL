@@ -12,7 +12,7 @@
 
 ## install project
 ```bash
-git clone <lemon-2727>
+git clone <본인repository>
 ```
 
 ### install dependency
